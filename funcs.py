@@ -1,6 +1,6 @@
 def func(a, b):
-    return a + b
+    print(a + b)
 
 
 def func_2(x, y):
-    return x - y
+    print(x - y)
